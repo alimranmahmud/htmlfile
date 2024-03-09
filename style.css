@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+}
+
+.head {
+
+    background-color: bisque;
+    text-align: center;
+    height: 50px;
+
+}
+
+.head-a {
+    color: rgba(0, 0, 0, 0.847);
+
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+
+    margin: 10px;
+
+
+}
+
+.head-a:hover {
+    color: tomato;
+
+
+}
